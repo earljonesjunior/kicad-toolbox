@@ -1,6 +1,6 @@
 (footprint "NKK_MRB14B" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61F30EDA)
+  (tedit 61F4074B)
   (descr "SWITCH ROTARY 3POS 0.4VA 28V")
   (tags "Rotary Switch 3 Position SP3T 0.4VA (AC/DC) 28 VAC Panel Mount, Through Hole")
   (attr through_hole)
@@ -25,7 +25,7 @@
   (pad "2" thru_hole circle (at 5.08 -2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 58c4b7f1-3bfe-4269-af43-3ce726a108d9))
   (pad "3" thru_hole circle (at 5.08 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp b830f01d-0d9c-451a-9ac4-3e5744deb516))
   (pad "4" thru_hole circle (at 5.08 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp a8b5a69a-24fc-4f3a-af15-1ced0fb0d73b))
-  (model "${KIPRJMOD}/3d/MRB14B-A.stp"
+  (model "${TOOLBOX}/toolbox-3d/switch/NKK_MRB14B-A.stp"
     (offset (xyz 0 0 10.75))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

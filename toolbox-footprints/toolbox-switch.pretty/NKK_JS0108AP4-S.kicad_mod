@@ -1,6 +1,6 @@
 (footprint "NKK_JS0108AP4-S" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61F30DCC)
+  (tedit 61F41BF7)
   (descr "SWITCH SLIDE DIP SPST 25MA 24V")
   (tags "Dip Switch SPST 8 Position Through Hole Slide (Standard) Actuator 25mA 24VDC")
   (attr through_hole)
@@ -40,7 +40,7 @@
   (pad "14" thru_hole oval (at -3.81 -3.81) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask) (tstamp 6ce41a48-c5e2-4d5f-8548-1c7b5c309a8a))
   (pad "15" thru_hole oval (at -6.35 -3.81) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask) (tstamp 4688ff87-8262-46f4-ad96-b5f4e529cfa9))
   (pad "16" thru_hole oval (at -8.89 -3.81) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2e36ce87-4661-4b8f-956a-16dc559e1b50))
-  (model "${KIPRJMOD}/3d/JS0108AP4.stp"
+  (model "${TOOLBOX}/toolbox-3d/switch/NKK_JS0108AP4.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

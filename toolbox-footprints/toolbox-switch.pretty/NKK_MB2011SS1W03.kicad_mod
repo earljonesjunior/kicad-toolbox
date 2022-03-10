@@ -1,6 +1,6 @@
 (footprint "NKK_MB2011SS1W03" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61F30EA3)
+  (tedit 61F41B95)
   (descr "SWITCH PUSHBUTTON SPDT 6A 125V")
   (tags "Pushbutton Switch SPDT Standard Panel Mount, Rear")
   (attr through_hole)
@@ -16,7 +16,7 @@
   (pad "1" thru_hole rect (at 0 4.7) (size 3.5 3.5) (drill 1.8) (layers *.Cu *.Mask) (tstamp 88fb8817-4ee2-4465-a9af-37fedc8b835b))
   (pad "2" thru_hole circle (at 0 0) (size 3.5 3.5) (drill 1.8) (layers *.Cu *.Mask) (tstamp a5dfaf18-d33f-45c4-b76f-2a5051ec9118))
   (pad "3" thru_hole circle (at 0 -4.7) (size 3.5 3.5) (drill 1.8) (layers *.Cu *.Mask) (tstamp f9570ec9-4338-4208-aee7-369a45a284f8))
-  (model "${KIPRJMOD}/3d/MB2065SS1W03-BA.stp"
+  (model "${TOOLBOX}/toolbox-3d/switch/NKK_MB2065SB1W03-BA.stp"
     (offset (xyz 0 0 9))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
