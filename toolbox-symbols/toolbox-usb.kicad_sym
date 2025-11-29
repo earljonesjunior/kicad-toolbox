@@ -161,7 +161,7 @@
     (symbol "USB2240_1_0"
       (pin unspecified line (at 12.7 -29.21 90) (length 2.54)
         (name "VSS" (effects (font (size 1.27 1.27))))
-        (number "ePad" (effects (font (size 1.27 1.27))))
+        (number "37" (effects (font (size 1.27 1.27))))
       )
     )
     (symbol "USB2240_1_1"
